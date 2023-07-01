@@ -1,0 +1,352 @@
+Project 1: Shopping Platform
+
+Requirements
+Users must be able to create an account and update their personal information.
+Users must be able to browse products and add them to their shopping cart.
+Users must be able to make payments securely using various payment methods.
+Users must be able to track the status of their orders and view order history.
+Users must be able to write product reviews and rate their shopping experience.
+Administrators must be able to manage product inventory and update product details.
+Administrators must be able to process and fulfill orders, including generating shipping labels.
+Administrators must be able to manage user accounts and handle customer inquiries.
+The website must have a search functionality that allows users to find products based on keywords.
+The website must have a responsive design to ensure a seamless experience on different devices.
+The website must support multiple languages and currencies for international users.
+The website must have robust security measures to protect user data and prevent unauthorized access.
+
+Recommendations
+The user must be able to create a new account
+ The logged-in user must be able to search for products
+ The user must be able to select a payment method
+ The logged-in user must be able to edit their order history
+ The user must be able to select a product
+ A Data Publishing User must be able to have a way of managing data sets 
+ The system must be able to send a message to any user
+ The user must be able to search for a product
+ The user must be able to search for products
+ A user must be able to navigate forwards and backwards between log book pages 
+ The user must be able to search for other users
+ A user must be able to view events and events that he has attended
+ A user must be able to navigate forwards and backwards between files
+
+
+---------------------------------------------------------------------------------------------------------
+
+Project 2: E-Commerce Website
+
+Requirements
+Users must be able to browse products and add them to their shopping cart.
+Users must be able to make payments securely using various payment methods.
+Users must be able to track the status of their orders and view order history.
+Users must be able to write product reviews and rate their shopping experience.
+Administrators must be able to manage product inventory and update product details.
+Administrators must be able to process and fulfill orders, including generating shipping labels.
+Administrators must be able to manage user accounts and handle customer inquiries.
+The website must have a search functionality that allows users to find products based on keywords.
+The website must have a responsive design to ensure a seamless experience on different devices.
+The website must support multiple languages and currencies for international users.
+The website must have robust security measures to protect user data and prevent unauthorized access.
+
+Recommendations
+The user must be able to select a product
+ The system must be able to provide a list of payment methods
+ A user must have the ability to edit and calculate costs collaboratively with others 
+ The user must be able to search for products
+ The user must be able to search for products
+ The user must be able to select a product
+ The user must be able to search for a product
+ The user must be able to search for a product
+ The user must be able to select a product
+ The website must be able to support multiple languages and currencies for international users
+ The user must be able to login to the system
+ The user must be able to edit
+
+
+---------------------------------------------------------------------------------------------------------
+
+Project 3: Social Media Platform
+
+Requirements
+Users must be able to create an account and set up their profile with personal information and profile picture.
+Users must be able to post content, such as text, images, and videos, on their profile.
+Users must be able to connect with other users by sending friend requests and accepting or rejecting requests.
+Users must be able to like, comment on, and share posts from other users.
+Users must be able to send private messages to their friends or groups of friends.
+Users must have the ability to customize their privacy settings for their posts and profile information.
+Users must be able to discover and join interest-based groups or communities.
+Administrators must be able to monitor and moderate user-generated content for inappropriate or violating material.
+Administrators must be able to manage user accounts, handle reports, and enforce platform policies.
+The platform must have a news feed that displays a personalized stream of content from the user's connections.
+The platform must provide notification alerts for new friend requests, messages, and activity on posts.
+The platform must have a search functionality to find other users, posts, or specific topics of interest.
+
+Recommendations
+The logged-in user must be able to view his profile
+ A user must be able to edit or calculate costs collaboratively with others while working on
+ The user must be able to search for other users
+ The user must be able to view other users posts
+ The logged-in user must be able to send a message
+ A user must be able to search for and download files from the search results in a
+ The user must be able to view other users' reviews
+ A researcher must be able to upload files prior to having them attached to a log book
+ The system must be able to notify the user
+ The user must be able to search for news
+ The user must be able to see his/her profile
+ The user must be able to search for other users
+ A Data Publishing User must be able to know what his data is good for
+
+
+---------------------------------------------------------------------------------------------------------
+
+Project 4: Travel Booking System
+
+Requirements
+Users must be able to search for flights, hotels, and rental cars based on their travel preferences.
+Users must be able to compare prices and availability for different travel options.
+Users must be able to book and confirm their travel arrangements.
+Users must be able to view and manage their itineraries, including making changes or cancellations.
+The system must integrate with payment gateways to process secure online transactions.
+The system must provide real-time updates on flight statuses and delays.
+The system must offer personalized
+Recommendations based on user preferences and past bookings.
+Administrators must be able to manage inventory and update travel-related information.
+Administrators must be able to generate reports on bookings, revenues, and customer feedback.
+The system must have a user-friendly interface with intuitive search and booking processes.
+The system must support multiple languages and currencies for international travelers.
+The system must have robust security measures to protect user data and ensure privacy.
+
+Recommendations
+The user must be able to navigate between cities
+ The user must be able to select routes
+ The user must be able to select a destination
+ The user must be able to change their location
+ The logged-in user must be able to login to the system
+ The user must be able to rate a flight
+ The user must be able to search for a product
+ The user must be able to search for a product
+ A Researcher must be able to have the details of the workflow execution plan as well
+ The system must be able to provide the user with the details of the booking process
+ The system must be able to provide a map display of all the travel routes to the user
+ The system must be able to encapsulate the user's personal data
+The user must be able to select a filter
+
+
+---------------------------------------------------------------------------------------------------------
+
+Project 5: Task Management Application
+
+Requirements
+Users must be able to create an account and log in to the application.
+Users must be able to create tasks, assign them to team members, and set due dates.
+Users must be able to track the progress of tasks and mark them as complete.
+Users must receive notifications and reminders for upcoming or overdue tasks.
+Users must be able to collaborate with team members by commenting and sharing files.
+Administrators must be able to manage user roles and permissions within the application.
+Administrators must be able to generate reports on task completion and team performance.
+The application must provide a visual representation of tasks through a dashboard or Kanban board.
+The application must support integration with popular productivity tools, such as calendars or project management software.
+The application must have a search functionality to quickly find specific tasks or projects.
+The application must be accessible on multiple devices, including desktop and mobile.
+The application must have data backup and recovery mechanisms to prevent data loss.
+
+Recommendations
+The user must be able to create an account
+ The logged-in user must be able to search for events
+ A user must be able to create a logbook page using HTML tags as part of
+ The user must be able to login to the system
+ A user must be able to create a page on a certain date 
+ A researcher must have the ability to search for files by file type and format 
+ An administrator must be able to have a way of managing the system that allows administrators to
+The user must be able to search for and download a dataset file
+ The user must be able to create and keep a directory that contains multiple directories and files
+ The user must be able to search for a specific project
+ The application must be able to search for and download multiple files from the search results
+ A Data Publishing User must be able to ensure that the data he shares is protected from
+ A Data Publishing User must be able to have a timeline display of multiple data files 
+
+
+---------------------------------------------------------------------------------------------------------
+
+Project 6: Multimedia System
+
+Requirements
+The system must be able to record a playing movie.
+The system must be able to return to the menu when a movie is playing.
+The system must be able to provide an option menu for a selected movie.
+The system must be able to provide the ability to select subtitles for a selected movie.
+The system must be able to provide a list of TV channels.
+The user must be able to select a TV channel.
+The system must be able to provide a list of program categories for a selected TV channel.
+The system must be able to provide the weekly program for a selected channel.
+The system must be able to project a selected program.
+The system must be able to pause and stop a playing program.
+The system must be able to forward and rewind a playing program.
+The system must be able to record a playing program.
+
+Recommendations
+The user must be able to search for a movie
+ The system must be able to pause a movie when a movie is playing
+ The system must be able to show a selected movie
+ The user must be able to select a movie
+ The user must be able to select a channel
+The user must be able to select a channel
+ The user must be able to select a channel
+ The logged-in user must be able to select a channel
+ The user must be able to select a selected program
+ The logged-in user must be able to select a channel
+ The user must be able to select a song
+ The system must be able to provide a list of playing programs
+ The system must be able to provide a list of equipment and consumables
+
+
+---------------------------------------------------------------------------------------------------------
+
+Project 7: Shazam
+
+Requirements
+The user must be able to identify a song on the network.
+The user must be able to search for an artist on the network.
+The user must be able to use the camera to identify an album.
+The user must be able to swipe to different tabs.
+The user must be able to view the new Shazam Charts.
+The user must be able to view their song library.
+The user must be able to enable AutoShazam song search.
+The user must be able to disable AutoShazam song search.
+The user must be able to view their Shazams history.
+The user must be able to view their Shazam history songs sorted by date.
+The user must be able to view their Shazam history songs sorted by album artist.
+The user must be able to listen to their Shazam history songs individually.
+The user must be able to listen to their Shazam history songs individually sorted by album artist.
+The user must be able to listen to all their Shazam history songs in order.
+The user must be able to share their Shazam history songs.
+The user must be able to share their Shazam history songs sorted by album artist.
+The user must be able to delete their Shazam history songs.
+The user must be able to delete their Shazam history songs sorted by album artist.
+The user must be able to download their Shazam history songs from the Apple Music Store.
+The user must be able to view similar songs based on their Shazam history songs.
+The user must be able to view similar songs based on their Shazam history songs' album artist.
+The user must be able to change the appearance of Shazam.
+The user must be able to use Shazam while using other applications.
+The user must be able to enable vibrations when Shazam identifies a song.
+The user must be able to disable video previews of songs when using mobile data.
+The user must be able to update the downloading list using songs from their library sorted by album artist.
+
+Recommendations
+The user must be able to select a song
+ The user must be able to search for an artist
+ The user must be able to select a photo
+ The user must be able to select a type
+ The logged-in user must be able to search for Shazam Charts
+ The user must be able to select a song
+ The user must be able to select a song
+ The user must be able to delete a song
+ The user must be able to view Shazam history
+ The user must be able to search for Shazam history songs sorted by date
+ The user must be able to view the Shazam history songs sorted by album artist
+ The user must be able to select a song
+ The user must be able to search for Shazam history songs individually sorted by album
+ The user must be able to select a Shazam history song
+ The user must be able to share his Shazam history songs
+ The user must be able to edit their Shazam history songs
+ The user must be able to delete a Shazam history song
+ The user must be able to delete his Shazam history song
+ The user must be able to download their Shazam history songs from the Apple Music
+
+
+---------------------------------------------------------------------------------------------------------
+
+Project 8: Diabetes Management Assistant
+
+Requirements
+The system should allow users to enter their current blood glucose level.
+The system should allow users to enter the amount of carbohydrates they are about to eat.
+The system should allow users to indicate if they are feeling ill and rate the severity on a scale of 1 to 1
+The system should allow users to enter the type and duration of exercise they are about to engage in.
+The system should allow users to log their alcohol consumption.
+The system should allow users to log their caffeine consumption.
+For female users, the system should provide the ability to log menstruation-related information.
+The system should maintain a history of all user inputs.
+The system should calculate the impact of proteins and fats on blood glucose levels.
+The system should calculate the amount of bolus insulin required during a meal.
+The system should calculate the amount of bolus insulin required during a meal, taking into account factors such as illness, exercise, and more.
+The system should calculate the carbohydrates-to-insulin ratio.
+The system should calculate the user's carb sensitivity.
+The system should calculate the user's insulin sensitivity.
+The system should calculate different carbohydrates-to-insulin ratios and insulin sensitivities for different times of the day.
+The system should calculate the amount of basal insulin based on the morning's blood glucose level.
+The system should calculate the amount of basal insulin based on factors such as illness, exercise, mood, inflammation, food choices, and hormonal instabilities.
+The system should calculate the carbohydrates-to-insulin ratio and intensity for different types of exercise performed by the user.
+The system should calculate the amount of carbohydrates the user needs to consume before, during, or after exercising.
+The system should calculate the amount of carbohydrates the user needs to consume in the case of hypoglycemia (low blood glucose).
+The system should calculate the amount of carbohydrates the user needs to consume in the case of alcohol consumption.
+
+Recommendations
+The system must be able to show the blood glucose level of the user
+ The system must be able to calculate the amount of carbohydrates in each meal
+ The user must be able to rate other users
+ The system must be able to show the users how to exercise
+ The system must be able to provide the user with a list of ingredients for each meal
+ The user must be able to search for food
+ The system must be able to provide the user with the ability to search for menstruation
+ The logged-in user must be able to delete a login attempt
+ The system must calculate the amount of carbohydrates that the user has to consume
+ The system must be able to calculate the amount of carbohydrates the user is able to eat
+ The system must be able to calculate the amount of insulin the user injects during exercise
+ The system should calculate the carbohydrates-to-protein ratio
+ The system must be able to calculate the user's blood glucose
+The user must be able to control the insulin pump
+ The system must be able to calculate the amount of carbohydrates the user has to eat 
+ The system should be able to calculate the amount of insulin the user has to inject each
+ The system must be able to calculate the amount of insulin that the user has to inject
+ The user must be able to control the intensity of the exercise
+ The system must calculate the amount of carbohydrates the user needs to consume before, during,
+ The system must be able to calculate the amount of carbohydrates that the user has to eat
+ The user must be able to control the consumption of alcohol
+
+
+---------------------------------------------------------------------------------------------------------
+
+Project 9: HealthConnect
+
+Requirements
+Doctors should be able to edit their public information.
+Doctors should be able to create patient accounts and delete those accounts.
+Doctors should be able to add, modify, and delete patient medical notes.
+Doctors should be able to add and delete patient's measured vital parameters.
+Doctors should be able to define and edit mandatory parameters for patients.
+Doctors should be able to define and edit parameter ranges for patients.
+Doctors should be able to send alarms to the first aid team with patient's name, location, alarm level, and diagnosis.
+Doctors should be able to access patient's medical notes, vital parameters, and images or files (on the web).
+First aid should be able to delete alarms when they are acted upon in the web application.
+The mobile application should display patient's medical notes (without images or other attachment files) and all measurements of patient's vital parameters to the doctor in charge.
+The mobile application should allow the patient to input a new measurement of their vital parameters and enforce the input of mandatory vital parameters (if defined).
+The web application should display patient's medical notes (with images or other attachment files) and all measurements of vital parameters to the doctor in charge of the patient.
+The web application should allow the patient to input a new measurement of their vital parameters and enforce the input of mandatory vital parameters (if defined).
+Doctors should be able to define and edit mandatory parameters for patients.
+Doctors should be able to define and edit parameter ranges for patients.
+Doctors should be able to send alarms to the first aid team with patient's name, location, alarm level, and diagnosis.
+
+Recommendations
+A researcher must be able to have a mechanism for electronically sharing papers and notes with other
+ Doctors must be able to delete patient accounts
+ A researcher must have the ability to upload files prior to having them attached to a log
+ A MedicalCaregiver must be able to have ALFRED determine the health of
+ Doctors must be able to edit and delete a patient
+ A MedicalCaregiver must be able to have a group - level evaluation of the
+ Doctors must be able to set alarms and alarms for patients
+ A MedicalCaregiver must be able to have the details of the patient's
+ The logged-in user must be able to delete his password
+ The user must be able to upload files prior to having them attached to a log book
+ The app must be able to provide the user with the details of their workflow
+ A MedicalCaregiver must be able to have access to all his vital data 
+ A user must be able to have the details of the workflow plan as well as the
+ Patients must be able to change their personal login password
+ A MedicalCaregiver must be able to know when a patient is about to die
+ A MedicalCaregiver must be able to have ALFRED determine the patient's
+ A researcher must be able to see the acceptance test results
+
+
+
+
+
+
