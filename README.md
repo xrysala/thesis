@@ -7,10 +7,10 @@ Finally, a new dataset is constructed from these sub-groups, which is then utili
 
 Overall, the utilization of semantic information plays a crucial role in enhancing the relevance of the generated recommendations. By leveraging semantic analysis techniques, the system gains a deeper understanding of the underlying meaning and context within the requirements text. After evaluating the approach on a collection of requirements from software projects, it is demonstrated that it can be useful for engineers in the process of requirements elicitation in new software projects.
 
-Chrysa Lampropoulou
-Electrical and Computer Engineering School
-Aristotle University of Thessaloniki, Greece
-June 2023
+Chrysa Lampropoulou<br>
+Electrical and Computer Engineering School<br>
+Aristotle University of Thessaloniki, Greece<br>
+June 2023<br>
 
 
 ## Code Run
