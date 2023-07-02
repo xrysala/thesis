@@ -17,5 +17,10 @@ June 2023
 ### Topic Modeling
 Perform Topic Modeling with the BERTopic technique using the /Topic Modeling/topic_modeling_final.ipynb notebook. The corresponding  dataset can be found in the /Datasets/Projects/ folder.
 
-## BART fine-tuning
-Fine-tune the BART model with the /BART fine-tuning/BART_fine_tuning_final.ipynb notebook. The corresponding  dataset id the /Datasets/BART fine-tuning/all_clusters523.xlsx.
+### BART fine-tuning
+Fine-tune the BART model with the /BART Fine-Tuning/BART-fine-tuning-final.ipynb notebook. The corresponding  dataset is the /Datasets/BART_fine_tuning/all_clusters_df523.xlsx .
+
+### Post-Processing Unit
+Use the text file that can be found in /Post Processing/3epochs.txt to run the post-processing /Post Processing/APostProc.py .
+
+
